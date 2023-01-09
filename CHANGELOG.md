@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## [1.0.0] 2023-01-08
+## [1.0.0] 2023-01-09
 ### Changes
 
 - STABLE Version
