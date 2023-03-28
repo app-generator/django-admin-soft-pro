@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.3] 2023-03-28
+### Changes
+
+- Fix #2 - `Models with 2 extra fields`
+
 ## [1.0.2] 2023-02-17
 ### Changes
 
