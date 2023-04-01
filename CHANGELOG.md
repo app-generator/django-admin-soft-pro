@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [1.0.5] 2023-04-01
+### Changes
+
+- Change Style in ADMIN (minor)
+
+## [1.0.4] 2023-03-29
+### Changes
+
+- Fix #4 - `Admin validation custom not working, error messages missplaced`
+
 ## [1.0.3] 2023-03-28
 ### Changes
 
