@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## [1.0.7] 2023-04-11
+### Changes
+
+- Fixes:
+  - #8 - Checkbox spacing
+  - #9 - Using import-export lib
+  - #10 - Kanban page is empty 
+
+## [1.0.6] 2023-04-06
+### Changes
+
+- Admin Section Improvements
+  - Icons
+  - Data Widgets 
+
 ## [1.0.5] 2023-04-01
 ### Changes
 
