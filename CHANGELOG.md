@@ -1,5 +1,27 @@
 # CHANGELOG
 
+## [1.0.11] 2023-06-20
+### Changes
+
+- CleanUP MAP Files (JS, CSS)
+
+## [1.0.10] 2023-06-13
+### Changes
+
+- Update SCSS, minor change
+
+## [1.0.9] 2023-06-05
+### Changes
+
+- Sidebar UPD Links
+  - Default path goed to `/`
+
+## [1.0.8] 2023-04-30
+### Changes
+
+- Gulp Tooling for SCSS
+- DOCS Update (readme)  
+
 ## [1.0.7] 2023-04-11
 ### Changes
 
