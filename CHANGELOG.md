@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.12] 2023-06-27
+### Changes
+
+- Remove `login` protection for all routes
+
 ## [1.0.11] 2023-06-20
 ### Changes
 
