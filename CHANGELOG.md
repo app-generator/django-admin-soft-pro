@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [1.0.14] 2024-11-27
+### Changes
+
+- Remove `length_is` filter
+  - Deprecated in Django 5.1
+
+## [1.0.13] 2023-06-28
+### Changes
+
+- Remove Duplicate assets
+  - `nucleo-svg.css`
+
 ## [1.0.12] 2023-06-27
 ### Changes
 
